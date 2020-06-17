@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DevilTech555.github.io/todoApp_reactJS/static/css/main.c6862ec9.chunk.css",
+    "main.js": "/DevilTech555.github.io/todoApp_reactJS/static/js/main.f2247885.chunk.js",
+    "main.js.map": "/DevilTech555.github.io/todoApp_reactJS/static/js/main.f2247885.chunk.js.map",
+    "runtime-main.js": "/DevilTech555.github.io/todoApp_reactJS/static/js/runtime-main.0c5d54fe.js",
+    "runtime-main.js.map": "/DevilTech555.github.io/todoApp_reactJS/static/js/runtime-main.0c5d54fe.js.map",
+    "static/js/2.7a547fea.chunk.js": "/DevilTech555.github.io/todoApp_reactJS/static/js/2.7a547fea.chunk.js",
+    "static/js/2.7a547fea.chunk.js.map": "/DevilTech555.github.io/todoApp_reactJS/static/js/2.7a547fea.chunk.js.map",
+    "index.html": "/DevilTech555.github.io/todoApp_reactJS/index.html",
+    "precache-manifest.aef3873329b7dfd2e0700826cb305545.js": "/DevilTech555.github.io/todoApp_reactJS/precache-manifest.aef3873329b7dfd2e0700826cb305545.js",
+    "service-worker.js": "/DevilTech555.github.io/todoApp_reactJS/service-worker.js",
+    "static/css/main.c6862ec9.chunk.css.map": "/DevilTech555.github.io/todoApp_reactJS/static/css/main.c6862ec9.chunk.css.map",
+    "static/js/2.7a547fea.chunk.js.LICENSE.txt": "/DevilTech555.github.io/todoApp_reactJS/static/js/2.7a547fea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c5d54fe.js",
+    "static/js/2.7a547fea.chunk.js",
+    "static/css/main.c6862ec9.chunk.css",
+    "static/js/main.f2247885.chunk.js"
+  ]
+}
